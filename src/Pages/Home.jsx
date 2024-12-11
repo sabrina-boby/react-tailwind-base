@@ -1,5 +1,5 @@
 
-import GetStart from '../components/GetStart'
+import GetStart from '../components/GetStart/GetStart'
 const Home = () => {
   return (
     <>
